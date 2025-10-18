@@ -4,3 +4,5 @@
 ####  <h4> This is my fourth header </h4>
 #####  <h5> This is my fifth header </h5>
 ######  <h6> This is my sixth header </h6>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
